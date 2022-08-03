@@ -1,4 +1,4 @@
 # Sistem Informasi Akademik
-SIA is a school management software. It helps school staff to interact with students online. This documentation will provide a guide for you to use the system.
+Software ini berguna untuk membantu interaksi online antar guru dan siswa. Dokumentasi ini akan membantu anda untuk menggunakan software yang telah disediakan.
 
-This guide is under construction.
+Dokumentasi ini sedang dalam konstruksi.
