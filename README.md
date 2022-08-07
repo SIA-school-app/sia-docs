@@ -11,3 +11,4 @@ Untuk menggunakan situs, pengguna harus memiliki akun dalam sistem. Jika anda ad
 3. **Remember Me**: Berguna untuk memastikan bahwa anda tetap login.
 4. **Log in**: Masuk ke dalam akun.
 
+Ada empat tipe akun dalam sistem; [Administrator](account_types/admin/main.md), [Teacher](account_types/teacher/main.md), [Student](account_types/student/main.md) dan [Parent](account_types/parent/main.md). Setiap tipe akun memiliki peran masing-masing dalam sistem.
