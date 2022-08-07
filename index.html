@@ -14,10 +14,26 @@
     window.$docsify = {
       name: 'Sistem Informasi Akademik',
       repo: '',
-      loadSidebar: true
+      loadSidebar: true,
+        'flexible-alerts': {
+        // style: 'flat',
+        note: {
+          label: "Catatan"
+        },
+        tip: {
+          label: "Tip"
+        },
+        warning: {
+          label: "Peringatan"
+        },
+        attention: {
+          label: "Perhatian"
+        }
+      }
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
 </body>
 </html>
