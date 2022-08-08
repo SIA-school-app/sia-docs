@@ -18,7 +18,7 @@ Tombol **Detil Sesi** akan masuk ke bagian sesi kelas. Halaman itu adalah halama
 
 ![Kelas Overview](_media/kelas_overview.png)
 
-### Sesi Kelas
+## Sesi Kelas
 Disini adalah tempat dimana siswa dapat berinteraksi dengan guru. Tugas dapat di upload disini, dan guru juga bisa memberikan file yang dibutuhkan.
 
 > [!TIP]
@@ -26,10 +26,10 @@ Disini adalah tempat dimana siswa dapat berinteraksi dengan guru. Tugas dapat di
 
 ![Student Sesi](_media/student_sesi.png)
 
-#### Lampiran
+### Lampiran
 Siswa dapat men-download lampiran yang diberikan oleh guru pada sesi.
 
-#### Tugas Sesi
+### Tugas Sesi
 Ketika ada tugas dalam sesi, siswa harus mengerjakan tugas yang diberikan. Ketika guru meminta tugas, dalam bagian sesi, akan muncul tombol untuk melihat dan memasukkan tugas yang dikerjakan.
 
 ![Tugas](_media/tugas.png)
