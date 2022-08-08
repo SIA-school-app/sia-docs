@@ -4,7 +4,7 @@ Profile menunjukkan informasi yang diberikan oleh pemegang akun ke dalam sistem.
 >[!TIP]
 > Anda dapat edit profil anda melalui tombol **Edit**. Hanya **Admin** dan pemilik akun sendiri dapat melakukan edit profil. Informasi edit profil bisa dilihat [disini](settings.md).
 
-![Profile Parent](/_media/profile_parent.png)
+![Profile Parent](_media/profile_parent.png)
 
 ## Public Profile
 Karena profil bersifat publik, pengguna bisa mengakses profil milik akun lain. Berikut adalah profil akun tipe **Student**, siswa institusi akademik.
@@ -12,4 +12,4 @@ Karena profil bersifat publik, pengguna bisa mengakses profil milik akun lain. B
 > [!NOTE]
 > Hanya **Admin** dan **Teacher** dapat mengakses nilai melalui profil. Pemilik akun juga bisa mengakses nilai mereka sendiri, jika tipe akun adalah **Student**. Orang-tua pelajar bisa mengakses nilai dari cara lain.
 
-![Profile Student](/_media/profile_student.png)
+![Profile Student](_media/profile_student.png)

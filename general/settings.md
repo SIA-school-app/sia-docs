@@ -9,4 +9,4 @@ Dalam halaman ini, pemilik akun bisa mengubah tampilan bahasa mereka. Secara sta
 > [!WARNING]
 > Jika tidak ingin mengubah password, bisa dibiarkan kosong. Password tidak akan berubah jika kosong.
 
-![Edit Profile](/_media/edit_profile.png)
+![Edit Profile](_media/edit_profile.png)
