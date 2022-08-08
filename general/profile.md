@@ -1,6 +1,9 @@
 # Profile
 Profile menunjukkan informasi yang diberikan oleh pemegang akun ke dalam sistem. Informasi yang ditampilkan disini bersifat publik. Setiap akun memiliki profil mereka sendiri, dan setiap tipe akun memiliki profil yang berbeda. Berikut adalah profil akun tipe **Parent**, orang-tua siswa akademik.
 
+>[!TIP]
+> Anda dapat edit profil anda melalui tombol **Edit**. Hanya **Admin** dan pemilik akun sendiri dapat melakukan edit profil. Informasi edit profil bisa dilihat [disini](settings.md).
+
 ![Profile Parent](/_media/profile_parent.png)
 
 ## Public Profile

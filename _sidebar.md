@@ -7,3 +7,6 @@
     * [Parent](account_types/parent/main.md)
     * [Administrator](account_types/admin/main.md)
 
+* General
+    * [Profile](general/profile.md)
+    * [Settings](general/settings.md)
