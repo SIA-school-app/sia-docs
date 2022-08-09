@@ -10,7 +10,9 @@
         * [Mata Pelajaran (Guru)](account_types/teacher/mata_pelajaran.md)
         * [Nilai](account_types/teacher/nilai.md)
     * [Administrator](account_types/admin/main.md)
+        * [Nilai (Semester)](account_types/admin/nilai_semester.md)
 
 * General
     * [Profile](general/profile.md)
     * [Settings](general/settings.md)
+    * [Import Export Excel](general/import_export.md)
