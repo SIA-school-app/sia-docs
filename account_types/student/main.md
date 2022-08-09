@@ -19,7 +19,7 @@ Tombol **Detil Sesi** akan masuk ke bagian sesi kelas. Halaman itu adalah halama
 ![Kelas Overview](_media/kelas_overview.png)
 
 ## Sesi Kelas
-Disini adalah tempat dimana siswa dapat berinteraksi dengan guru. Tugas dapat di upload disini, dan guru juga bisa memberikan file yang dibutuhkan.
+Disini adalah tempat dimana siswa dapat berinteraksi dengan guru. Tugas dapat di upload disini, dan guru juga bisa memberikan file yang dibutuhkan. Setiap sesi yang ada tergantung dari pihak guru. Tidak semua kelas memiliki jumlah sesi yang sama.
 
 > [!TIP]
 > Selain melihat langsung dari sesi, bagian daftar tugas menampilkan tugas apa saja yang ada pada sesi.
