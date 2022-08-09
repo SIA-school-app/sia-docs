@@ -14,6 +14,9 @@ Guru dapat melihat informasi kelas pelajaran disini. Halaman ini identik dengan 
 > [!INFO]
 > Untuk informasi penilaian, bisa dilihat [disini](nilai.md).
 
+> [!WARNING]
+> Kelas pelajaran yang dihapus tidak dapat dikembalikan.
+
 ![Kelas Pelajaran Overview](_media/kelas_pelajaran_overview.png)
 
 ### Mengubah Kelas Pelajaran
