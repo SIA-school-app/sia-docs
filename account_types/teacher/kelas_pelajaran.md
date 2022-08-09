@@ -12,7 +12,7 @@ Untuk masuk ke halaman kelas, bisa menggunakan link yang tersambung dengan nama 
 Guru dapat melihat informasi kelas pelajaran disini. Halaman ini identik dengan halaman overview kelas milik pelajar. Hanya saja, tombol **Performa Nilai** hanya akan terbuka setelah semester sudah selesai. Guru juga dapat menghapus atau mengubah data kelas pelajaran mereka.
 
 > [!INFO]
-> Untuk informasi penilaian, bisa dilihat [disini](nilai.md).
+> Untuk informasi penilaian kelas pelajaran, bisa dilihat [disini](nilai_kelas_pelajaran.md).
 
 > [!WARNING]
 > Kelas pelajaran yang dihapus tidak dapat dikembalikan.
@@ -39,7 +39,7 @@ Ada tiga tombol yang muncul di samping sesi; **Grade**, **Edit** dan **Delete**.
 
 ![Sesi Modify](_media/sesi_modify.png)
 
-* **Grade**: Bagian untuk menilai sesi. Detil penilaian bisa dilihat [disini](nilai.md).
+* **Grade**: Bagian untuk menilai sesi. Detil penilaian bisa dilihat [disini](nilai_kelas_pelajaran.md).
 * **Edit**: Ubah informasi sesi.
 * **Delete**: Hapus sesi.
 
