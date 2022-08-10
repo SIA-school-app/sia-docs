@@ -15,7 +15,7 @@ Bagian nilai adalah tempat guru untuk menilai siswa mereka. Jika siswa sudah din
 
 Ringkasan berisi informasi penilaian siswa. Guru dapat mengetahui apakah mereka sudah menilai semua siswa dalam kelas.
 
-Bagian Import dan Export dapat dilihat [disini](../../general/import_export.md).
+Bagian Import dan Export dapat dilihat [disini](general/import_export.md).
 
 ![Nilai Kelas](_media/nilai_kelas.png)
 
@@ -77,4 +77,4 @@ Ketika sudah diberi nilai, perubahan dapat disimpan dengan tombol **Simpan Nilai
 ![Nilai Tugas Perform](_media/nilai_tugas_perform.png)
 
 ## Nilai Semester
-Pengguna dapat melihat informasi tentang nilai semester [disini](../admin/nilai_semester.md).
+Pengguna dapat melihat informasi tentang nilai semester [disini](account_types/admin/nilai_semester.md).

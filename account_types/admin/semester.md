@@ -31,4 +31,4 @@ Dalam bagian ini, **Admin** dapat melihat informasi semester. Semua kelas pelaja
 ![Semester View](_media/semester_view.png)
 
 ### Nilai Semester
-Penilaian semester dapat dilihat [disini](nilai_semester.md).
+Penilaian semester dapat dilihat [disini](account_types/admin/nilai_semester.md).

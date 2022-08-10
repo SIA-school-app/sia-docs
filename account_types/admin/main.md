@@ -21,15 +21,15 @@ Bagian **Mata Pelajaran** hampir sama dengan Guru, dengan beberapa perbedaan. **
 
 ![Mata Pelajaran](_media/mata_pelajaran.png)
 
-* [Kelas Pelajaran](../teacher/kelas_pelajaran.md): Melihat dan mengelola semua kelas pelajaran yang disediakan. Berbeda dengan **Guru**, seorang Admin dapat melihat semua kelas yang ada.
-* [Semester](semester.md): Melihat dan mengelola semester akademik dalam sistem.
-* [Mata Pelajaran](../teacher/mata_pelajaran.md): Melihat dan mengelola semester akademik dalam sistem.
-* [Nilai](../teacher/nilai.md): Melihat nilai siswa secara keseluruhan.
+* [Kelas Pelajaran](account_types/teacher/kelas_pelajaran.md): Melihat dan mengelola semua kelas pelajaran yang disediakan. Berbeda dengan **Guru**, seorang Admin dapat melihat semua kelas yang ada.
+* [Semester](account_types/admin/semester.md): Melihat dan mengelola semester akademik dalam sistem.
+* [Mata Pelajaran](account_types/teacher/mata_pelajaran.md): Melihat dan mengelola semester akademik dalam sistem.
+* [Nilai](account_types/teacher/nilai.md): Melihat nilai siswa secara keseluruhan.
 
 ## Lainnya
 Bagian ini digunakan untuk mengelola sistem. Hanya **Admin** dapat melihat dan menggunakan bagian ini.
 
 ![Lainnya](_media/lainnya.png)
 
-* [Log](log.md): Informasi aktivitas yang terjadi dalam sistem.
-* [Tugas](tugas.md): Daftar tugas dari berbagai aktivitas yang ada. **Bagian ini digunakan untuk membersihkan file dalam sistem.**
+* [Log](account_types/admin/log.md): Informasi aktivitas yang terjadi dalam sistem.
+* [Tugas](account_types/admin/tugas.md): Daftar tugas dari berbagai aktivitas yang ada. **Bagian ini digunakan untuk membersihkan file dalam sistem.**

@@ -9,6 +9,6 @@ Selain dari apa yang ada dalam halaman utama, pemegang akun `Teacher` memiliki b
 ![Teacher Sidebar](_media/teacher_sidebar.png)
 
 Dari sini, guru dapat mengakses halaman lain;
-* [Kelas Pelajaran](kelas_pelajaran.md): Akses kelas mata pelajaran dalam naungan guru.
-* [Mata Pelajaran](mata_pelajaran.md): Melihat mata pelajaran yang disediakan oleh institusi pendidikan.
-* [Nilai](nilai.md): Melihat dan mengurus nilai siswa.
+* [Kelas Pelajaran](account_types/teacher/kelas_pelajaran.md): Akses kelas mata pelajaran dalam naungan guru.
+* [Mata Pelajaran](account_types/teacher/mata_pelajaran.md): Melihat mata pelajaran yang disediakan oleh institusi pendidikan.
+* [Nilai](account_types/teacher/nilai.md): Melihat dan mengurus nilai siswa.

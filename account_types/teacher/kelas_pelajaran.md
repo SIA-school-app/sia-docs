@@ -39,7 +39,7 @@ Ada tiga tombol yang muncul di samping sesi; **Grade**, **Edit** dan **Delete**.
 
 ![Sesi Modify](_media/sesi_modify.png)
 
-* **Grade**: Bagian untuk menilai sesi. Detil penilaian bisa dilihat [disini](nilai_kelas_pelajaran.md).
+* **Grade**: Bagian untuk menilai sesi. Detil penilaian bisa dilihat [disini](account_types/teacher/nilai_kelas_pelajaran.md).
 * **Edit**: Ubah informasi sesi.
 * **Delete**: Hapus sesi.
 
@@ -63,4 +63,4 @@ Dan ketika tersimpan, akan muncul tugas yang siswa dapat upload.
 
 ![Edit Sesi 3](_media/edit_sesi_3.png)
 
-Mengakses link tugas akan menuju ke bagian nilai. Untuk detil lebih lanjut tentang nilai, anda dapat mengakses informasi tersebut [disini](nilai.md).
+Mengakses link tugas akan menuju ke bagian nilai. Untuk detil lebih lanjut tentang nilai, anda dapat mengakses informasi tersebut [disini](account_types/teacher/nilai.md).

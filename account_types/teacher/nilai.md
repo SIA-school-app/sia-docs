@@ -10,4 +10,4 @@ Jika dilihat dari halaman, nilai yang ditampilkan adalah daftar nilai siswa kese
 ## Nilai Siswa Keseluruhan
 Guru dapat melihat nilai keseluruhan seorang siswa. Bagian ini juga dapat dilihat oleh orang tua siswa, dan siswa itu sendiri.
 
-![Student Grade Full](../parent/_media/student_grade_full.png)
+![Student Grade Full](account_types/parent/_media/student_grade_full.png)
