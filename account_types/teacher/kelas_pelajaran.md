@@ -12,7 +12,7 @@ Untuk masuk ke halaman kelas, bisa menggunakan link yang tersambung dengan nama 
 Guru dapat melihat informasi kelas pelajaran disini. Halaman ini identik dengan halaman overview kelas milik pelajar. Hanya saja, tombol **Performa Nilai** hanya akan terbuka setelah semester sudah selesai. Guru juga dapat menghapus atau mengubah data kelas pelajaran mereka.
 
 > [!INFO]
-> Untuk informasi penilaian kelas pelajaran, bisa dilihat [disini](nilai_kelas_pelajaran.md).
+> Untuk informasi penilaian kelas pelajaran, bisa dilihat [disini](account_types/teacher/nilai_kelas_pelajaran.md).
 
 > [!WARNING]
 > Kelas pelajaran yang dihapus tidak dapat dikembalikan.
