@@ -10,7 +10,16 @@
         * [Mata Pelajaran (Guru)](account_types/teacher/mata_pelajaran.md)
         * [Nilai](account_types/teacher/nilai.md)
     * [Administrator](account_types/admin/main.md)
-        * [Nilai (Semester)](account_types/admin/nilai_semester.md)
+        * Pengguna
+            * [Kelola Pengguna](account_types/admin/pengguna/pengguna.md)
+            * [Guru](account_types/admin/pengguna/guru.md)
+            * [Siswa](account_types/admin/pengguna/siswa.md)
+            * [Orang Tua](account_types/admin/pengguna/orang_tua.md)
+        * Lainnya
+            * [Log](account_types/admin/log.md)
+            * [Tugas](account_types/admin/tugas.md)
+        * [Semester](account_types/admin/semester.md)
+            * [Nilai (Semester)](account_types/admin/nilai_semester.md)
 
 * General
     * [Profile](general/profile.md)
