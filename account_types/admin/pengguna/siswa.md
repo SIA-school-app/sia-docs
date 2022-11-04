@@ -25,9 +25,9 @@ Ada opsi tambahan yang berguna untuk mempermudah fungsi. **Tambah semester ke si
 Untuk menggunakan, pengguna pertama harus memilih semester yang ingin digunakan. Kemudian, pilih kelas pelajaran yang ingin ditambah. Untuk menghapus kelas pelajaran yang dipilih, bisa di klik pada tombol dibawah.
 
 > [!INFO]
-> Mengubah semester akan menghapus semua pilihan kelas pelajaran sebelumnya.
+> Menambah kelas pelajaran akan menambah semester secara otomatis.
 
-![Tambah Kelas Pelajaran Dari Semester](_media/tambah_kelas_pelajaran_dari_semester.png)
+![Tambah Kelas Pelajaran Dari Semester](_media/tambah_kelas_pelajaran_dari_semester.jpeg)
 
 Setelah perubahan dilakukan, pengguna dapat menerapkan perubahan dengan **Simpan Informasi**.
 
@@ -38,5 +38,5 @@ Terkadang **Tambah Kelas Pelajaran Dari Semester** tidak memberikan fitur yang l
 
 Dalam halaman ini, Admin dapat mengeluarkan atau memasukkan siswa dari kelas pelajaran dan semester. Pengguna hanya perlu klik tombol yang ada, dan sistem akan melakukan perubahan secara langsung.
 
-![Edit Kelas Pelajaran dan Semester](_media/edit_kelas_pelajaran_dan_semester.png)
+![Edit Kelas Pelajaran dan Semester](_media/edit_kelas_pelajaran_dan_semester.jpeg)
 
